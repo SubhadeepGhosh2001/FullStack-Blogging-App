@@ -1,0 +1,26 @@
+# OS / Desktop junk
+Desktop/
+Downloads/
+Documents/
+Pictures/
+Videos/
+
+# Secrets
+.env
+*.pem
+*.key
+*.log
+
+# Node / Java / build
+node_modules/
+dist/
+build/
+target/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
